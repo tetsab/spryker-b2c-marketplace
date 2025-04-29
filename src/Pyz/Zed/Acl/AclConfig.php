@@ -67,7 +67,6 @@ class AclConfig extends SprykerAclConfig
     protected function addMerchantPortalInstallerRules(array $installerRules): array
     {
         $bundleNames = [
-            'customer-merchant-portal-gui',
             'dashboard-merchant-portal-gui',
             'merchant-profile-merchant-portal-gui',
             'product-merchant-portal-gui',
