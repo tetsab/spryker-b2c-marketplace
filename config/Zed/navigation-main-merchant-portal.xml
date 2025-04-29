@@ -85,4 +85,12 @@
             </onboarding>
         </pages>
     </merchant-portal-payment-settings>
+    <customer-merchant-portal-gui>
+        <label>Customers</label>
+        <title>Customers</title>
+        <icon>offers</icon>
+        <bundle>customer-merchant-portal-gui</bundle>
+        <controller>customer</controller>
+        <action>index</action>
+    </customer-merchant-portal-gui>
 </config>
