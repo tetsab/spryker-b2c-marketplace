@@ -88,11 +88,7 @@
     <customer-merchant-portal-gui>
         <label>Customers</label>
         <title>Customers</title>
-<<<<<<< Updated upstream
-        <icon>offers</icon>
-=======
         <icon>profile</icon>
->>>>>>> Stashed changes
         <bundle>customer-merchant-portal-gui</bundle>
         <controller>customer</controller>
         <action>index</action>
