@@ -1,0 +1,6 @@
+<transfer>
+    <transfer name="Antelope">
+        <property name="name" type="string" />
+        <property name="speed" type="int" />
+    </transfer>
+</transfer>
